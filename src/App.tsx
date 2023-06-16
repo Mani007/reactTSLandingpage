@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="text-blue-500">
         Hello
       </div>
       
